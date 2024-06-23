@@ -1,1 +1,47 @@
-
+[
+    {
+        "key": "dpr",
+        "value": "2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-23T05:34:32.154Z",
+        "lastAccessed": "2024-06-23T05:34:32.154Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B736x393x2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-23T05:34:32.154Z",
+        "lastAccessed": "2024-06-23T05:34:32.154Z"
+    },
+    {
+        "key": "wd",
+        "value": "393x736",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-23T05:34:32.154Z",
+        "lastAccessed": "2024-06-23T05:34:32.154Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "100621716%3BT%3A28652012",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-23T05:34:32.155Z",
+        "lastAccessed": "2024-06-23T05:34:32.155Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2537%3Btimestamp%3A1719120723",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-23T05:34:32.155Z",
+        "lastAccessed": "2024-06-23T05:34:32.155Z"
+    }
+]
